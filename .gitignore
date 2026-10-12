@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+.angular/
+.env
+.env.*
+!.env.example
+!.env.test
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.log
+apps/web/.angular/
+apps/api/dist/

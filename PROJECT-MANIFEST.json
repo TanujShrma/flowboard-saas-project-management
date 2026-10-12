@@ -1,0 +1,9 @@
+{
+  "project": "Flowboard SaaS Project Management Starter",
+  "frontend": "Angular 20+ standalone components",
+  "backend": "NestJS 11 REST API",
+  "database": "PostgreSQL 16 with TypeORM",
+  "file_count": 46,
+  "generated_source_only": true,
+  "build_verified": false
+}
